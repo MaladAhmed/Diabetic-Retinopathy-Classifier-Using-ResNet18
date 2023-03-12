@@ -1,4 +1,4 @@
-# Diabetic-Retinopathy-Classifier-Using-ResNet512
+# Diabetic-Retinopathy-Classifier-Using-ResNet18
 A simple Diabetic Retinopathy classifier using a fine tuned ResNet model trained on a 3000 labled fundus images
 Diabetic retinopathy is the leading cause of blindness in the working-age population of the developed world. It is estimated to affect over 93 million people.
 
